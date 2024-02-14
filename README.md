@@ -1,9 +1,9 @@
 <h1 align="center">Oi, Eu sou Pedro Henrique Ribeiro Teixeira</h1>
-<h3 align="center">Eu estou estudando ciência de dados/Analise de Dados</h3>
+<h3 align="center">Eu estou estudando Ciência de dados</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 💬 Me pergunte sobre **SQL,Python, Power BI, Excel**
+- 💬 Me pergunte sobre **SQL,Python, Power BI, Excel,Machine Learning**
 
 - 📫 Você me acha através do e-mail **pedrohenrique.310104@gmail.com**
 
